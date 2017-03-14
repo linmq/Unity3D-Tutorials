@@ -23,3 +23,4 @@ Unity3D V5.5.2f1
 6. BuildingPluginsForiOS-Bonjour
 https://docs.unity3d.com/Manual/PluginsForIOS.html
 Unity3D V5.5.2f1
+When build to Xcode project, the file BonjourClientlmpl.mm is write by MRC, you need to set "-fno-objc-arc" at Xcode -> Build Phases -> Copile Sources -> Compiler Flags
