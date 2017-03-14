@@ -19,3 +19,7 @@ Unity3D V5.5.2f1
 5. UnityEvent
 https://docs.unity3d.com/ScriptReference/Events.UnityEvent_1.html
 Unity3D V5.5.2f1
+
+6. BuildingPluginsForiOS-Bonjour
+https://docs.unity3d.com/Manual/PluginsForIOS.html
+Unity3D V5.5.2f1
