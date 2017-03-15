@@ -24,3 +24,8 @@ Unity3D V5.5.2f1
 https://docs.unity3d.com/Manual/PluginsForIOS.html
 Unity3D V5.5.2f1
 When build to Xcode project, the file BonjourClientlmpl.mm is write by MRC, you need to set "-fno-objc-arc" at Xcode -> Build Phases -> Copile Sources -> Compiler Flags
+
+7. BuildingPluginsForiOS-Brightness
+Unity3D V5.5.2f1
+Unity3D call iOS's native code to Set iOS device's brightness at 1.0, and set brightness at 0.5 when paused.
+
