@@ -33,3 +33,6 @@ BuildDllForUnity/BuildDllForUnity-VisualStudioProject/DLLTest/bin/Release/DLLTes
 BuildDllForUnity/BuildDllForUnity-VisualStudioProject/DLLTest/bin/Debug/DLLTest.pdb
 BuildDllForUnity/BuildDllForUnity-VisualStudioProject/DLLTest/obj/Release/DLLTest.pdb
 BuildDllForUnity/BuildDllForUnity-VisualStudioProject/DLLTest/obj/
+BuildDllForUnity1/iOSPluginsForUnityWapper/iOSPluginsForUnityWapper/obj/
+BuildDllForUnity1/iOSPluginsForUnityWapper/iOSPluginsForUnityWapper/bin/Debug/iOSPluginsForUnityWapper.pdb
+BuildDllForUnity1/iOSPluginsForUnityWapper/iOSPluginsForUnityWapper/bin/Release/iOSPluginsForUnityWapper.pdb
